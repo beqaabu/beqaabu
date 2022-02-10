@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beqaabu
-- 👀 I’m interested in Data Science, Machine Learning, Blockchain technologies, DeFi, and Fintech
-- 🌱 I’m currently learning Substrate framework
-- 💞️ I’m looking to collaborate on anything machine learging related
+- 👀 I’m interested in Blockchain technologies, DeFi, Machine Learning, Economics and Fintech
+- 🌱 I’m currently learning Substrate framework and Rust programming language
+- 💞️ I’m looking to collaborate on anything Substrate/Polkadot/Rust and machine learning related
 - 📫 You can reach me at beqaabuladze.00@gmail.com
 
 <!---
