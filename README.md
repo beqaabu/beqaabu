@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @beqaabu
-- 📫 You can reach me at beqaabuladze.00@gmail.com
+`git rerere`
 
 <!---
 beqaabu/beqaabu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
